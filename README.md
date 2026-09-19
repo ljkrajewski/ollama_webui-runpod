@@ -1,5 +1,10 @@
 # ollama_webui-runpod
 
+## Pick a Model
+[Can I Run AI](https://www.canirun.ai/):  Tests your computer and suggests what you can run.
+
+## Running Qwen3.8-27B-Uncensored
+
 Already done buy someone else, and it works well.
 
 - Template: Ollama with Open WebUI - PyTorch 2.7.0 CUDA 12.x
