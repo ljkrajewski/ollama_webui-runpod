@@ -5,6 +5,8 @@
 
 ## Running Qwen3.8-27B-Uncensored
 
+Pick a 23GB+ VRAM pod on [Runpod](https://runpod.ai) (or wherever). See the [Ollama library page](https://ollama.com/orcarouter/Qwen3.8-27B-Uncensored) if you want a smaller model.
+
 Already done buy someone else, and it works well.
 
 - Template: Ollama with Open WebUI - PyTorch 2.7.0 CUDA 12.x
