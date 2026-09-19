@@ -22,3 +22,7 @@ ollama serve
 ollama pull orcarouter/Qwen3.8-27B-Uncensored:q6_K   #or whatever model you choose
 ```
 then click on the OpenWebUI link in the runpod VM.
+
+## Uncensored models
+- [maxwellb/gemma4-12b-it-oym:bf16](https://ollama.com/maxwellb/gemma4-12b-it-oym)
+- [orcarouter/Qwen3.8-27B-Uncensored:q6_K](https://ollama.com/orcarouter/Qwen3.8-27B-Uncensored)
